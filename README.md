@@ -10,3 +10,7 @@ Este projeto é um clone da página inicial da HBO, desenvolvido durante a trilh
 ## Objetivo
 
 Criar uma página responsiva, baseada no design da HBO, focando no uso de animações de transições de CSS.
+
+## Resultado do Projeto
+
+Você pode visualizar o projeto clicando [aqui](https://gabrielf27.github.io/Clonando-o-Site-da-HBO-Max/).
